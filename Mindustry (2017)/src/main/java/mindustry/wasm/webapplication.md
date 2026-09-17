@@ -1,0 +1,8 @@
+init()
+resize()
+update()
+pause()
+resume()
+dispose()
+exit()
+fileDropped()
